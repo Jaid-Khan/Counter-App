@@ -6,6 +6,5 @@ Perfect for beginners to practice JavaScript (or React) fundamentals such as sta
 ## 🚀 Features
 - Increment the counter value.
 - Decrement the counter value.
-- Reset the counter to zero.
 - Clean and responsive design.
 
