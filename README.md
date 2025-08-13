@@ -9,8 +9,3 @@ Perfect for beginners to practice JavaScript (or React) fundamentals such as sta
 - Reset the counter to zero.
 - Clean and responsive design.
 
-## 🛠️ Technologies Used
-React
-
-## 📂 Installation & Usage
-
